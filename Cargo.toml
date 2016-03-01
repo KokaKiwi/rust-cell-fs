@@ -1,0 +1,13 @@
+[package]
+name = "cell-fs"
+version = "0.1.0"
+authors = ["KokaKiwi <kokakiwi@kokakiwi.net>"]
+
+[dependencies]
+itertools = "*"
+quick-error = "*"
+uuid = "*"
+zip = { version = "*", optional = true }
+
+[features]
+default = ["zip"]
