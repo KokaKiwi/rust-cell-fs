@@ -2,6 +2,8 @@
 name = "cell-fs"
 version = "0.1.0"
 authors = ["KokaKiwi <kokakiwi@kokakiwi.net>"]
+description = "A virtual filesystem for games. Inspired by PhysicFS"
+license = "MIT"
 
 [dependencies]
 itertools = "*"
