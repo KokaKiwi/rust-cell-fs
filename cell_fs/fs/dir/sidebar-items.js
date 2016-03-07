@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DirEntry",""],["ReadDir",""]],"type":[["ReadDirIterator",""]]});
